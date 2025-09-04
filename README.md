@@ -25,7 +25,8 @@ HTML5 – Estrutura semântica do conteúdo.
 
 CSS3 – Estilização do layout e responsividade.
 
-JavaScript (opcional) – Para interatividade futura, como light/dark mode.
-
 Ionicons – Ícones para redes sociais.
+
+Pretendo fazer um upgrade acrescentando um dark/light mode utilizando o Javascript, deixando o portifólio ainda mais profissional.
+
 
